@@ -3,6 +3,8 @@
 
 Quer saber tudo sobre seus atletas brasileiros favoritos? Com essa aplicação, você pode pesquisar por nome ou esporte e descobrir um mundo de informações!
 
+Aplicação feita na Imersão Dev Alura com Google Gemini.
+
 ## Como Usar
 
 **Clone o repositório:** Faça um clone desse repositório no seu computador.
